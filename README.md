@@ -11,19 +11,19 @@ By simply updating the dataset and adjusting the preprocessing techniques (such 
 - Machine learning classification
 - TF-IDF vectorization
 
-## Text Preprocessing
-- Lowercase conversion
-- Special character removal
-- Number removal
-- Turkish stop words removal
-- Whitespace normalization
-
 ## Web Interface Features
 - Clean and simple design
 - Real-time analysis
 - Color-coded results
 - Responsive layout
 - User-friendly interface
+  
+## Text Preprocessing
+- Lowercase conversion
+- Special character removal
+- Number removal
+- Turkish stop words removal
+- Whitespace normalization
 
 ## Technologies Used
 - Python 3.x
